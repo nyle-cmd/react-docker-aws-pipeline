@@ -1,8 +1,4 @@
-Here's a **quick and effective README** for your GitHub project:
-
----
-
-# **React Docker AWS CI/CD Deployment 🚀**  
+# **React Docker AWS CI/CD Deployment**  
 
 Automated deployment pipeline for a **React application** using **Docker, GitHub Actions, and AWS Elastic Beanstalk**.  
 
@@ -49,12 +45,5 @@ git push origin main
  ┣ 📜 README.md            # Documentation
 ```
 
-## **Contributing**
-Feel free to fork and submit PRs! 🚀  
-
 ## **License**
 MIT License  
-
----
-
-Replace **`your-username`** in the GitHub link with your actual GitHub username. Let me know if you want any modifications! 🚀
